@@ -9,3 +9,4 @@ csv_data = pd.read_csv(
 
 print(csv_data)
 ```
+output nya data di file csvnya itu nanti
